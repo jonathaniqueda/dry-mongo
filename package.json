@@ -1,7 +1,7 @@
 {
     "name":"dry-mongo",
     "main":"./lib/index.js",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "description": "MongoDB driver wrapper for node used by DRY Framework",
     "author": {
         "name": "Kendrick Taylor",
