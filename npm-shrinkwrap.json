@@ -1,6 +1,6 @@
 {
   "name": "dry-mongo",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "dependencies": {
     "dry-underscore": {
       "version": "0.9.0",
