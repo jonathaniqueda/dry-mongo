@@ -13,3 +13,4 @@ def test(args):
 
 def default(args):
     return test(args)
+
