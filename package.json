@@ -1,14 +1,14 @@
 {
-    "name":"dry-mongo",
-    "main":"./lib/index.js",
-    "version": "0.0.8",
+    "name": "dry-mongo",
+    "main": "./lib/index.js",
+    "version": "0.0.10",
     "description": "MongoDB driver wrapper for node used by DRY Framework",
     "author": {
         "name": "Kendrick Taylor",
         "email": "kendrick@suoiruc.com"
     },
     "homepage": "http://dryjs.com/",
-	"repository": {
+    "repository": {
         "type": "git",
         "url": "git://github.com/curious-inc/dry-mongo.git"
     },
@@ -19,15 +19,15 @@
         "lib": "./lib"
     },
     "engines": {
-        "node": " >= 0.4",
-        "npm": "1"
+        "node": " >= 8.x",
+        "npm": ">= 6"
     },
     "devDependencies": {
-        "dry-test":"0.1.3"
+        "dry-test": "0.1.3"
     },
-    "dependencies":{
-          "mongodb":""
-        , "tamejs":""
-        , "dry-underscore":""
+    "dependencies": {
+        "dry-underscore": "^0.24.1",
+        "mongodb": "^3.1.6",
+        "tamejs": ""
     }
 }
