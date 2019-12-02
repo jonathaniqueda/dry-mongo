@@ -1,16 +1,16 @@
 {
-    "name": "dry-mongo",
+    "name": "studio-dry-mongo",
     "main": "./lib/index.js",
-    "version": "0.0.11",
+    "version": "0.0.12",
     "description": "MongoDB driver wrapper for node used by DRY Framework",
     "author": {
-        "name": "Kendrick Taylor",
-        "email": "kendrick@suoiruc.com"
+        "name": "Jonathan Iqueda",
+        "email": "japaxiqueda@gmail.com"
     },
     "homepage": "http://dryjs.com/",
     "repository": {
         "type": "git",
-        "url": "git://github.com/curious-inc/dry-mongo.git"
+        "url": "https://github.com/jonathaniqueda/dry-mongo"
     },
     "bugs": {
         "url": "http://github.com/curious-inc/dry-mongo/issues"
