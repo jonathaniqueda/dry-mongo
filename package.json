@@ -1,7 +1,7 @@
 {
     "name": "studio-dry-mongo",
     "main": "./lib/index.js",
-    "version": "0.0.13",
+    "version": "0.0.15",
     "description": "MongoDB driver wrapper for node used by DRY Framework",
     "author": {
         "name": "Jonathan Iqueda",
